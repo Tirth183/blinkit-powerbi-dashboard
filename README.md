@@ -1,11 +1,11 @@
-# 🛒 Blinkit Sales Dashboard (Power BI)
+#  Blinkit Sales Dashboard (Power BI)
 
 This project presents an interactive Power BI dashboard built to analyze sales performance data for **Blinkit**, India's last-minute grocery delivery platform. The dashboard provides deep insights into key sales metrics, product categories, and outlet performance.
 
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 - **$1.2M Total Sales** and **8,500+ Items** analyzed
 - Visual KPIs for:
@@ -20,7 +20,7 @@ This project presents an interactive Power BI dashboard built to analyze sales p
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Power BI Desktop (`.pbix`)
 - Data modeling using relationships and DAX
